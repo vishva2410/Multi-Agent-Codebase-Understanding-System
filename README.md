@@ -1,6 +1,6 @@
 # 🧠 Codebase AI — Multi-Agent Code Understanding System
 
-A multi-agent system that **clones, parses, indexes, and understands** any GitHub codebase.  
+A multi-agent system that **clones, parses, indexes, and understands** any GitHub codebase.   
 Ask natural-language questions and get answers backed by code — powered by **Gemini**, **LangGraph**, **ChromaDB**, and **Neo4j**.
 
 ---
